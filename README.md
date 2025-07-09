@@ -1,14 +1,25 @@
 <h1 align="center">Hi , I'm Mohammed Faizan</h1>
 <h3 align="center">AI Scientist / Tech Entrepreneur</h3>
 
-# <div align="center">Mohammed Faizan</div>
-### <div align="center">AI Scientist | Tech Entrepreneur | ML Deployment Specialist</div>
-
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=2E8B57&center=true&width=800&lines=Transforming+AI+Research+into+Production+Ready+Systems;Architecting+Scalable+Machine+Learning+Infrastructure;Advancing+Open-Source+Generative+AI;Engineering+MLOps+Solutions+at+Scale" alt="Professional Headline" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=2E8B57&center=true&width=800&lines=Transforming+AI+Research+into+Production+Ready+Systems;Architecting+Scalable+Machine+Learning+Infrastructure;Advancing+Open+Source+Generative+AI;Engineering+MLOps+Solutions+at+Scale" alt="Professional Headline" />
 </div>
 
 ---
+
+I’m currently working on AI model.
+
+I’m currently learning Deep learning frameworks like TensorFlow & PyTorch, and tools like Docker, Kubernetes, and MLOps best practices.
+
+I’m looking to collaborate on Open‑Source Generative AI Projects.
+
+I’m looking for help with Production‑grade ML Deployment.
+
+How to reach me m.faizan@metispvt.com
+
+Know about my experiences linkedin.com/in/mohammad‑faizan‑a09631252.
+
+Fun fact I can train a basic image-classification model in under an hour
 
 ## Technical Focus
 
@@ -20,6 +31,7 @@
                                       Building transformer-based models for real-world deployment
 - **ML Deployment Optimization**  
                                       Solving scalability challenges in distributed systems
+
 
 ---
 
