@@ -15,9 +15,10 @@ I’m looking to collaborate on Open‑Source Generative AI Projects.
 
 I’m looking for help with Production‑grade ML Deployment.
 
-How to reach me m.faizan@metispvt.com
-
-Know about my experiences linkedin.com/in/mohammad‑faizan‑a09631252.
+How to reach me 
+Business email : businessfaizan36@gmail.com
+Work email :     m.faizan@metispvt.com
+Contact :        https://wa.me/+923277990997
 
 Fun fact I can train a basic image-classification model in under an hour
 
