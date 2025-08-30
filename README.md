@@ -12,6 +12,7 @@ I’m currently learning Deep learning frameworks like TensorFlow & PyTorch, and
 I’m looking to collaborate on Open‑Source Generative AI Projects.
 I’m looking for help with Production‑grade ML Deployment.
 How to reach me 
+
 Business email : businessfaizan36@gmail.com
 
 Work email :     m.faizan@metispvt.com
