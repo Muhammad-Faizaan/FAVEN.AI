@@ -1,3 +1,6 @@
+<img width="243" height="157" alt="Untitled" src="https://github.com/user-attachments/assets/dbb7e2e7-d7e0-4fde-8d2b-12b9d48c3631" />
+
+
 <h1 align="center">Hi , I'm Mohammed Faizan</h1>
 <h3 align="center">AI Scientist / Tech Entrepreneur</h3>
 
