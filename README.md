@@ -1,9 +1,7 @@
-<img width="243" height="157" alt="Untitled" src="https://github.com/user-attachments/assets/dbb7e2e7-d7e0-4fde-8d2b-12b9d48c3631" />
-
-
 <h1 align="center">Hi , I'm Mohammed Faizan</h1>
-<h3 align="center">AI Scientist / Tech Entrepreneur</h3>
+<img  width="133" height="80" alt="Untitled" src="https://github.com/user-attachments/assets/dbb7e2e7-d7e0-4fde-8d2b-12b9d48c3631" />
 
+<h3 align="center">AI Scientist / Tech Entrepreneur</h3>
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=2E8B57&center=true&width=800&lines=Transforming+AI+Research+into+Production+Ready+Systems;Architecting+Scalable+Machine+Learning+Infrastructure;Advancing+Open+Source+Generative+AI;Engineering+MLOps+Solutions+at+Scale" alt="Professional Headline" />
 </div>
